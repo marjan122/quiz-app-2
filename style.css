@@ -1,0 +1,39 @@
+:root{
+    --light-color: #cccccc;
+--dark-color: #124559;
+}
+
+.quizcolor{
+    margin-top: 30px;
+    width: 1350px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    height: 50px;
+    background-color: var(--light-color);
+}
+
+.para{
+    color: white ;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    padding-right: -300px;
+    height: 50px;
+    font-family: cursive;
+    font-size: 30px;
+ background-color: var(--dark-color);
+}
+
+
+
+.htmlpara{
+    color: white ;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    font-size: 30px;
+ background-color: var(--dark-color);
+}
